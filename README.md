@@ -4,4 +4,3 @@
   
   * Shows a list of courses to select and add to your cart.
   * User can add courses to cart till there are available seats.
-  * First app  
